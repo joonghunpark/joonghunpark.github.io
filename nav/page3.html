@@ -1,0 +1,32 @@
+<html>
+  <head><title>Index</title></head>
+  <link rel="stylesheet" href="style.css">
+  <style type="text/css">
+    body {
+      background: lightslategray;
+    }
+  </style>
+<body>
+  <h1>Page 1</h1>
+
+  <p>Links:</p>
+  <ul>
+    <li><a href="index.html">Index</a></li>
+    <li><a href="page1.html">Page 1</a></li>
+    <li><a href="page2.html">Page 2</a></li>
+    <li><a href="page3.html">Page 3</a></li>
+    <li><a href="https://www.example.com/">example.com</a></li>
+  </ul>
+
+  <p>
+    This page is originally <b>grey</b>, when you navigate away from the page, it turns <b>pink</b>.
+  </p>
+
+<script lang="js">
+
+window.onbeforeunload = () => {
+  document.body.style.backgroundColor = "lightpink";
+}
+
+</script>
+</body>
