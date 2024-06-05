@@ -107,9 +107,9 @@
  "relation": ["delegate_permission/common.use_as_origin"],
  "target": {
    "namespace": "android_app",
-   "package_name": "com.example.postmessage",
+   "package_name": "com.google.androidbrowserhelper.demos.twapostmessage",
    "sha256_cert_fingerprints": [
-     "13:AE:74:F7:7A:4B:71:C9:EF:D2:30:BC:FD:57:FA:4C:93:88:DF:0E:47:5D:83:CF:E7:D2:B8:5B:7F:1B:04:F0"
+     "61:0B:C4:EE:4C:CA:F9:12:EF:00:A2:2C:30:34:01:9E:49:50:7C:68:24:C6:82:0B:29:51:4D:90:1C:9A:9A:FA"
    ]
  }
 },
@@ -147,9 +147,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.postmessage",
+    "package_name": "com.google.androidbrowserhelper.demos.twapostmessage",
     "sha256_cert_fingerprints": [
-      "13:AE:74:F7:7A:4B:71:C9:EF:D2:30:BC:FD:57:FA:4C:93:88:DF:0E:47:5D:83:CF:E7:D2:B8:5B:7F:1B:04:F0"
+      "61:0B:C4:EE:4C:CA:F9:12:EF:00:A2:2C:30:34:01:9E:49:50:7C:68:24:C6:82:0B:29:51:4D:90:1C:9A:9A:FA"
     ]
   }
 }
